@@ -1,4 +1,4 @@
----
+ping---
 title: About webhooks
 intro: Learn the basics of how webhooks work to help you build and set up integrations.
 redirect_from:
